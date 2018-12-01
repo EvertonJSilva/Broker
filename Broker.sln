@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broker", "Broker\Broker.csproj", "{EF059336-74D3-45B1-8FA4-0788069F5D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourHealthSoap.Domain", "F:\unisinos\ProjetoCasoDeEnsino\4Health-SOAP\FourHealthSoap\FourHealthSoap.Domain\FourHealthSoap.Domain.csproj", "{D2646890-8FA8-4004-A668-DD89102B8539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF059336-74D3-45B1-8FA4-0788069F5D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF059336-74D3-45B1-8FA4-0788069F5D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF059336-74D3-45B1-8FA4-0788069F5D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF059336-74D3-45B1-8FA4-0788069F5D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2646890-8FA8-4004-A668-DD89102B8539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2646890-8FA8-4004-A668-DD89102B8539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2646890-8FA8-4004-A668-DD89102B8539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2646890-8FA8-4004-A668-DD89102B8539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02191719-113F-4CF4-A245-F0E22E748616}
+	EndGlobalSection
+EndGlobal
